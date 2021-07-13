@@ -1,0 +1,22 @@
+{
+  "notes": [
+    {
+      "title": "Fatih birthday bash",
+      "details": "lorem ipsu dolor sit amet",
+      "category": "reminders",
+      "id": 1
+    },
+    {
+      "title": "Complete my ninja training",
+      "details": "lorem ipsu dolor sit amet",
+      "category": "work",
+      "id": 2
+    },
+    {
+      "title": "Order a seblak",
+      "details": "lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ispum dolor sit amet",
+      "category": "money",
+      "id": 3
+    }
+  ]
+}
